@@ -22,4 +22,6 @@
 * [x] curso de Java 02-03-04: Instalações no Sistema Operacionais
 * [x] curso de Java 05: Primeiro Programa em Java
 * [x] Curso de Java 06: Passando argumentos para o programa
-* [ ] Curso de Java 07: Entendendo os Erros
+* [x] Curso de Java 07: Entendendo os Erros
+* [x] Curso de Java 08: Instalando uma IDE (Eclipse e Netbeans) no Windows, Ubuntu e MacOS
+* [ ] Curso de Java 09: Introdução à Orientação a Objetos
