@@ -24,4 +24,8 @@
 * [x] Curso de Java 06: Passando argumentos para o programa
 * [x] Curso de Java 07: Entendendo os Erros
 * [x] Curso de Java 08: Instalando uma IDE (Eclipse e Netbeans) no Windows, Ubuntu e MacOS
-* [ ] Curso de Java 09: Introdução à Orientação a Objetos
+* [x] Curso de Java 09: Introdução à Orientação a Objetos
+* [x] Curso de Java 10: Introdução a Variávels
+* [ ] Curso de Java 11: Variáveis - Tipos Primitivos
+
+<!-- * [ ] -->
