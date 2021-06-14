@@ -26,6 +26,7 @@
 * [x] Curso de Java 08: Instalando uma IDE (Eclipse e Netbeans) no Windows, Ubuntu e MacOS
 * [x] Curso de Java 09: Introdução à Orientação a Objetos
 * [x] Curso de Java 10: Introdução a Variávels
-* [ ] Curso de Java 11: Variáveis - Tipos Primitivos
+* [x] Curso de Java 11: Variáveis - Tipos Primitivos
+* [ ] Curso de Java 12: Lendo dados do teclado usando a classe Scanner
 
 <!-- * [ ] -->
