@@ -18,4 +18,8 @@
 
 ## Mapa de andamento do curso
 
-* [] curso aula 01: Introdução e Dicas para quem está começando
+* [x] curso de Java 01: Introdução e Dicas para quem está começando
+* [x] curso de Java 02-03-04: Instalações no Sistema Operacionais
+* [x] curso de Java 05: Primeiro Programa em Java
+* [x] Curso de Java 06: Passando argumentos para o programa
+* [ ] Curso de Java 07: Entendendo os Erros
