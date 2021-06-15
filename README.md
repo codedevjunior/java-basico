@@ -27,6 +27,8 @@
 * [x] Curso de Java 09: Introdução à Orientação a Objetos
 * [x] Curso de Java 10: Introdução a Variávels
 * [x] Curso de Java 11: Variáveis - Tipos Primitivos
-* [ ] Curso de Java 12: Lendo dados do teclado usando a classe Scanner
+* [x] Curso de Java 12: Lendo dados do teclado usando a classe Scanner
+* [x] Curso de Java 13: Operadores (Aritiméticos, Lógicos e Relacionais)
+* [ ] Curso de Java 14: Condicionais If-Else
 
 <!-- * [ ] -->
