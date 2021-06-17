@@ -32,6 +32,7 @@
 * [x] Curso de Java 14: Condicionais If-Else
 * [x] Curso de Java 15: Condicional Switch-Case
 * [x] Curso de Java 16: Loops while e do-while
-* [ ] Curso de Java 17: Loop for
+* [x] Curso de Java 17: Loop for
+* [ ] 
 
 <!-- * [ ] -->
