@@ -30,6 +30,8 @@
 * [x] Curso de Java 12: Lendo dados do teclado usando a classe Scanner
 * [x] Curso de Java 13: Operadores (Aritiméticos, Lógicos e Relacionais)
 * [x] Curso de Java 14: Condicionais If-Else
-* [ ] Curso de Java 15: Condicional Switch-Case
+* [x] Curso de Java 15: Condicional Switch-Case
+* [x] Curso de Java 16: Loops while e do-while
+* [ ] Curso de Java 17: Loop for
 
 <!-- * [ ] -->
